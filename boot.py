@@ -1,0 +1,2 @@
+import wlan
+wlan.connect()
