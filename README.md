@@ -189,6 +189,3 @@ dokumentiert.
 * ESTA DMX512-A Standard
 
 * Art-Net Spezifikation
-
-```
-```
