@@ -2,6 +2,10 @@
 
 Ansteuerung von DMX-Lampen via **PC_DIMMER → Art-Net → DMX512 Bridge** auf Basis eines ESP32 mit MicroPython und MAX485 RS485-Transceiver.
 
+Einsortieren
+https://github.com/chaosloth/Connotron_DMX_Gateway
+https://github.com/Blasteroids/ESP32-Artnet2DMX
+
 ---
 
 ## Inhaltsverzeichnis
